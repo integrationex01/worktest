@@ -1,0 +1,92 @@
+2021/07/05 16:15:30 E:/GoProject/src/awesomeProject/sushi/sushi.go:100: cook 2 makes a new sushi,	 total is 1 
+2021/07/05 16:15:30 E:/GoProject/src/awesomeProject/sushi/sushi.go:137: customer 2 eats a sushi,	 total is 1 
+2021/07/05 16:15:30 E:/GoProject/src/awesomeProject/sushi/sushi.go:100: cook 3 makes a new sushi,	 total is 1 
+2021/07/05 16:15:30 E:/GoProject/src/awesomeProject/sushi/sushi.go:137: customer 5 eats a sushi,	 total is 1 
+2021/07/05 16:15:30 E:/GoProject/src/awesomeProject/sushi/sushi.go:100: cook 1 makes a new sushi,	 total is 1 
+2021/07/05 16:15:30 E:/GoProject/src/awesomeProject/sushi/sushi.go:137: customer 2 eats a sushi,	 total is 0 
+2021/07/05 16:15:30 E:/GoProject/src/awesomeProject/sushi/sushi.go:137: customer 4 eats a sushi,	 total is 0 
+2021/07/05 16:15:30 E:/GoProject/src/awesomeProject/sushi/sushi.go:100: cook 3 makes a new sushi,	 total is 0 
+2021/07/05 16:15:30 E:/GoProject/src/awesomeProject/sushi/sushi.go:137: customer 1 eats a sushi,	 total is 0 
+2021/07/05 16:15:30 E:/GoProject/src/awesomeProject/sushi/sushi.go:100: cook 2 makes a new sushi,	 total is 0 
+2021/07/05 16:15:30 E:/GoProject/src/awesomeProject/sushi/sushi.go:100: cook 1 makes a new sushi,	 total is 0 
+2021/07/05 16:15:30 E:/GoProject/src/awesomeProject/sushi/sushi.go:100: cook 3 makes a new sushi,	 total is 0 
+2021/07/05 16:15:30 E:/GoProject/src/awesomeProject/sushi/sushi.go:137: customer 5 eats a sushi,	 total is 0 
+2021/07/05 16:15:30 E:/GoProject/src/awesomeProject/sushi/sushi.go:100: cook 2 makes a new sushi,	 total is 1 
+2021/07/05 16:15:30 E:/GoProject/src/awesomeProject/sushi/sushi.go:137: customer 2 eats a sushi,	 total is 0 
+2021/07/05 16:15:30 E:/GoProject/src/awesomeProject/sushi/sushi.go:137: customer 3 eats a sushi,	 total is 0 
+2021/07/05 16:15:30 E:/GoProject/src/awesomeProject/sushi/sushi.go:100: cook 3 makes a new sushi,	 total is 0 
+2021/07/05 16:15:30 E:/GoProject/src/awesomeProject/sushi/sushi.go:100: cook 1 makes a new sushi,	 total is 0 
+2021/07/05 16:15:30 E:/GoProject/src/awesomeProject/sushi/sushi.go:137: customer 2 eats a sushi,	 total is 0 
+2021/07/05 16:15:30 E:/GoProject/src/awesomeProject/sushi/sushi.go:137: customer 4 eats a sushi,	 total is 0 
+2021/07/05 16:15:30 E:/GoProject/src/awesomeProject/sushi/sushi.go:137: customer 5 eats a sushi,	 total is 0 
+2021/07/05 16:15:30 E:/GoProject/src/awesomeProject/sushi/sushi.go:100: cook 2 makes a new sushi,	 total is 0 
+2021/07/05 16:15:30 E:/GoProject/src/awesomeProject/sushi/sushi.go:100: cook 1 makes a new sushi,	 total is 0 
+2021/07/05 16:15:30 E:/GoProject/src/awesomeProject/sushi/sushi.go:100: cook 2 makes a new sushi,	 total is 0 
+2021/07/05 16:15:30 E:/GoProject/src/awesomeProject/sushi/sushi.go:137: customer 5 eats a sushi,	 total is 0 
+2021/07/05 16:15:30 E:/GoProject/src/awesomeProject/sushi/sushi.go:100: cook 3 makes a new sushi,	 total is 0 
+2021/07/05 16:15:30 E:/GoProject/src/awesomeProject/sushi/sushi.go:137: customer 1 eats a sushi,	 total is 0 
+2021/07/05 16:15:30 E:/GoProject/src/awesomeProject/sushi/sushi.go:137: customer 2 eats a sushi,	 total is 0 
+2021/07/05 16:15:30 E:/GoProject/src/awesomeProject/sushi/sushi.go:100: cook 2 makes a new sushi,	 total is 0 
+2021/07/05 16:15:30 E:/GoProject/src/awesomeProject/sushi/sushi.go:137: customer 2 eats a sushi,	 total is 0 
+2021/07/05 16:15:30 E:/GoProject/src/awesomeProject/sushi/sushi.go:100: cook 3 makes a new sushi,	 total is 0 
+2021/07/05 16:15:30 E:/GoProject/src/awesomeProject/sushi/sushi.go:137: customer 5 eats a sushi,	 total is 0 
+2021/07/05 16:15:30 E:/GoProject/src/awesomeProject/sushi/sushi.go:100: cook 1 makes a new sushi,	 total is 0 
+2021/07/05 16:15:30 E:/GoProject/src/awesomeProject/sushi/sushi.go:137: customer 3 eats a sushi,	 total is 0 
+2021/07/05 16:15:30 E:/GoProject/src/awesomeProject/sushi/sushi.go:100: cook 2 makes a new sushi,	 total is 0 
+2021/07/05 16:15:30 E:/GoProject/src/awesomeProject/sushi/sushi.go:137: customer 4 eats a sushi,	 total is 0 
+2021/07/05 16:15:30 E:/GoProject/src/awesomeProject/sushi/sushi.go:100: cook 1 makes a new sushi,	 total is 0 
+2021/07/05 16:15:30 E:/GoProject/src/awesomeProject/sushi/sushi.go:137: customer 5 eats a sushi,	 total is 0 
+2021/07/05 16:15:30 E:/GoProject/src/awesomeProject/sushi/sushi.go:137: customer 1 eats a sushi,	 total is 0 
+2021/07/05 16:15:30 E:/GoProject/src/awesomeProject/sushi/sushi.go:100: cook 3 makes a new sushi,	 total is 0 
+2021/07/05 16:15:30 E:/GoProject/src/awesomeProject/sushi/sushi.go:100: cook 3 makes a new sushi,	 total is 0 
+2021/07/05 16:15:30 E:/GoProject/src/awesomeProject/sushi/sushi.go:137: customer 5 eats a sushi,	 total is 0 
+2021/07/05 16:15:30 E:/GoProject/src/awesomeProject/sushi/sushi.go:137: customer 3 eats a sushi,	 total is 0 
+2021/07/05 16:15:30 E:/GoProject/src/awesomeProject/sushi/sushi.go:137: customer 2 eats a sushi,	 total is 0 
+2021/07/05 16:15:30 E:/GoProject/src/awesomeProject/sushi/sushi.go:141: 顾客4已吃饱
+2021/07/05 16:15:30 E:/GoProject/src/awesomeProject/sushi/sushi.go:100: cook 2 makes a new sushi,	 total is 0 
+2021/07/05 16:15:30 E:/GoProject/src/awesomeProject/sushi/sushi.go:100: cook 1 makes a new sushi,	 total is 0 
+2021/07/05 16:15:30 E:/GoProject/src/awesomeProject/sushi/sushi.go:141: 顾客1已吃饱
+2021/07/05 16:15:30 E:/GoProject/src/awesomeProject/sushi/sushi.go:100: cook 1 makes a new sushi,	 total is 1 
+2021/07/05 16:15:30 E:/GoProject/src/awesomeProject/sushi/sushi.go:100: cook 3 makes a new sushi,	 total is 2 
+2021/07/05 16:15:30 E:/GoProject/src/awesomeProject/sushi/sushi.go:100: cook 2 makes a new sushi,	 total is 3 
+2021/07/05 16:15:30 E:/GoProject/src/awesomeProject/sushi/sushi.go:137: customer 1 eats a sushi,	 total is 1 
+2021/07/05 16:15:30 E:/GoProject/src/awesomeProject/sushi/sushi.go:137: customer 4 eats a sushi,	 total is 1 
+2021/07/05 16:15:30 E:/GoProject/src/awesomeProject/sushi/sushi.go:100: cook 1 makes a new sushi,	 total is 2 
+2021/07/05 16:15:30 E:/GoProject/src/awesomeProject/sushi/sushi.go:100: cook 3 makes a new sushi,	 total is 3 
+2021/07/05 16:15:30 E:/GoProject/src/awesomeProject/sushi/sushi.go:100: cook 2 makes a new sushi,	 total is 4 
+2021/07/05 16:15:30 E:/GoProject/src/awesomeProject/sushi/sushi.go:137: customer 3 eats a sushi,	 total is 3 
+2021/07/05 16:15:30 E:/GoProject/src/awesomeProject/sushi/sushi.go:100: cook 1 makes a new sushi,	 total is 4 
+2021/07/05 16:15:30 E:/GoProject/src/awesomeProject/sushi/sushi.go:100: cook 3 makes a new sushi,	 total is 5 
+2021/07/05 16:15:30 E:/GoProject/src/awesomeProject/sushi/sushi.go:100: cook 2 makes a new sushi,	 total is 4 
+2021/07/05 16:15:30 E:/GoProject/src/awesomeProject/sushi/sushi.go:137: customer 4 eats a sushi,	 total is 4 
+2021/07/05 16:15:30 E:/GoProject/src/awesomeProject/sushi/sushi.go:137: customer 1 eats a sushi,	 total is 4 
+2021/07/05 16:15:30 E:/GoProject/src/awesomeProject/sushi/sushi.go:100: cook 1 makes a new sushi,	 total is 6 
+2021/07/05 16:15:30 E:/GoProject/src/awesomeProject/sushi/sushi.go:100: cook 2 makes a new sushi,	 total is 6 
+2021/07/05 16:15:30 E:/GoProject/src/awesomeProject/sushi/sushi.go:137: customer 3 eats a sushi,	 total is 6 
+2021/07/05 16:15:30 E:/GoProject/src/awesomeProject/sushi/sushi.go:100: cook 3 makes a new sushi,	 total is 6 
+2021/07/05 16:15:30 E:/GoProject/src/awesomeProject/sushi/sushi.go:137: customer 1 eats a sushi,	 total is 5 
+2021/07/05 16:15:30 E:/GoProject/src/awesomeProject/sushi/sushi.go:100: cook 1 makes a new sushi,	 total is 6 
+2021/07/05 16:15:30 E:/GoProject/src/awesomeProject/sushi/sushi.go:100: cook 2 makes a new sushi,	 total is 7 
+2021/07/05 16:15:30 E:/GoProject/src/awesomeProject/sushi/sushi.go:100: cook 3 makes a new sushi,	 total is 7 
+2021/07/05 16:15:30 E:/GoProject/src/awesomeProject/sushi/sushi.go:137: customer 4 eats a sushi,	 total is 7 
+2021/07/05 16:15:30 E:/GoProject/src/awesomeProject/sushi/sushi.go:137: customer 3 eats a sushi,	 total is 6 
+2021/07/05 16:15:30 E:/GoProject/src/awesomeProject/sushi/sushi.go:100: cook 1 makes a new sushi,	 total is 7 
+2021/07/05 16:15:30 E:/GoProject/src/awesomeProject/sushi/sushi.go:100: cook 2 makes a new sushi,	 total is 8 
+2021/07/05 16:15:30 E:/GoProject/src/awesomeProject/sushi/sushi.go:100: cook 3 makes a new sushi,	 total is 9 
+2021/07/05 16:15:30 E:/GoProject/src/awesomeProject/sushi/sushi.go:141: 顾客2已吃饱
+2021/07/05 16:15:30 E:/GoProject/src/awesomeProject/sushi/sushi.go:137: customer 4 eats a sushi,	 total is 8 
+2021/07/05 16:15:30 E:/GoProject/src/awesomeProject/sushi/sushi.go:141: 顾客3已吃饱
+2021/07/05 16:15:30 E:/GoProject/src/awesomeProject/sushi/sushi.go:100: cook 3 makes a new sushi,	 total is 9 
+2021/07/05 16:15:30 E:/GoProject/src/awesomeProject/sushi/sushi.go:100: cook 2 makes a new sushi,	 total is 11 
+2021/07/05 16:15:30 E:/GoProject/src/awesomeProject/sushi/sushi.go:100: cook 1 makes a new sushi,	 total is 11 
+2021/07/05 16:15:30 E:/GoProject/src/awesomeProject/sushi/sushi.go:104: 厨师0已做完工作量，下班
+2021/07/05 16:15:30 E:/GoProject/src/awesomeProject/sushi/sushi.go:137: customer 1 eats a sushi,	 total is 10 
+2021/07/05 16:15:30 E:/GoProject/src/awesomeProject/sushi/sushi.go:100: cook 2 makes a new sushi,	 total is 11 
+2021/07/05 16:15:30 E:/GoProject/src/awesomeProject/sushi/sushi.go:100: cook 3 makes a new sushi,	 total is 12 
+2021/07/05 16:15:30 E:/GoProject/src/awesomeProject/sushi/sushi.go:100: cook 3 makes a new sushi,	 total is 13 
+2021/07/05 16:15:30 E:/GoProject/src/awesomeProject/sushi/sushi.go:100: cook 2 makes a new sushi,	 total is 13 
+2021/07/05 16:15:30 E:/GoProject/src/awesomeProject/sushi/sushi.go:137: customer 1 eats a sushi,	 total is 12 
+2021/07/05 16:15:30 E:/GoProject/src/awesomeProject/sushi/sushi.go:141: 顾客0已吃饱
+2021/07/05 16:15:30 E:/GoProject/src/awesomeProject/sushi/sushi.go:100: cook 2 makes a new sushi,	 total is 14 
+2021/07/05 16:15:30 E:/GoProject/src/awesomeProject/sushi/sushi.go:100: cook 3 makes a new sushi,	 total is 15 
+2021/07/05 16:15:30 E:/GoProject/src/awesomeProject/sushi/sushi.go:73: 今日营业结束
